@@ -17,8 +17,8 @@ This repository is structured to offer modular, versionable components for:
 Clone this repository:
 
 ```bash
-git clone https://github.com/your-org/devops-templates-collection.git
-cd devops-templates-collection
+git clone https://github.com/jyok1m/devops-templates.git
+cd devops-templates
 ```
 Customize and reuse the modules or scripts as needed for your project infrastructure and pipeline setup.
 
