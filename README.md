@@ -23,9 +23,9 @@ cd devops-templates
 Customize and reuse the modules or scripts as needed for your project infrastructure and pipeline setup.
 
 ## 🔄 Reusability Guidelines
-- ** Keep variables generic in Terraform modules and Ansible roles.
-- ** Version each module or playbook if used in production workflows.
-- ** Document inputs/outputs in each submodule for clarity.
+- Keep variables generic in Terraform modules and Ansible roles.
+- Version each module or playbook if used in production workflows.
+- Document inputs/outputs in each submodule for clarity.
 
 ## 🛡️ License
 
