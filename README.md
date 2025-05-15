@@ -12,6 +12,12 @@ This repository is structured to offer modular, versionable components for:
 - **Deployment Automation** using GitHub Actions / GitLab CI
 - **Shell Utilities** for local operations and automation scripts
 
+***ATTENTION:*** 📌 Make sure scripts are executable:
+
+```bash
+chmod +x scripts/...sh
+```
+
 ## 🚀 Getting Started
 
 Clone this repository:
